@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IBJunior
-- 👀 I’m interested in web and Android development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently working on a cool web App with Elasticsearch and Vuejs
 - 💞️ I’m looking to collaborate on evrything interesting related to web and Android
 - 📫 How to reach me (@ialij on Twitter)
