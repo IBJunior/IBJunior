@@ -1,10 +1,44 @@
-- 👋 Hi, I’m @IBJunior, bronze community contributor 2022 @elastic
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently working on [Quosaver](https://www.quosaver.com/) a cool Personal Finance web App with Nestjs & Vuejs
-- 💞️ I’m looking to collaborate on evrything interesting related to Web development 
-- 📫 How to reach me (@ialijr on Twitter or ali-ibrahim-junior on LinkedIn)
+# Hey, I'm Ibrahim 👋
 
-<!---
-IBJunior/IBJunior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior full stack engineer, today at the intersection of robust backend systems and AI agent tooling in production.
+
+I started agentailor.com around one conviction: most AI agent resources out there were demos. Great for inspiration, hard to build on. I wanted to provide something different — solid enough to ship, approachable enough to get started with.
+
+---
+
+## 🔨 What I've built
+
+| Project | Description | |
+|---|---|---|
+| [fullstack-langgraph-nextjs-agent](https://github.com/agentailor/fullstack-langgraph-nextjs-agent) | Production-ready AI agent template — LangGraph.js + Next.js | ![GitHub stars](https://img.shields.io/github/stars/agentailor/fullstack-langgraph-nextjs-agent?style=flat&color=1A6B4A) |
+| [agentailor.com](https://agentailor.com) | Platform for production-ready AI agent skills and tooling | 3k+ monthly readers |
+| [Agent Initializr](https://github.com/agentailor/agent-initializr-template) | Spring Initializr-style scaffolder for NestJS + LangGraph backends | 200+ projects generated |
+| [create-mcp-server](https://github.com/agentailor/create-mcp-server) | CLI to scaffold production-ready MCP servers in seconds | ![GitHub stars](https://img.shields.io/github/stars/agentailor/create-mcp-server?style=flat&color=1A6B4A) [![npm downloads](https://img.shields.io/npm/dt/@agentailor/create-mcp-server.svg)](https://www.npmjs.com/package/@agentailor/create-mcp-server) |
+| [SlimContext](https://github.com/agentailor/slimcontext) | NPM package tackling memory degradation in long-running LLM workflows | ![GitHub stars](https://img.shields.io/github/stars/agentailor/slimcontext?style=flat&color=1A6B4A) |
+
+---
+
+## 📖 Writing
+
+I write about building AI agents for production — architecture patterns, MCP tooling, LLM workflows, and lessons learned shipping real things.
+
+- **Blog**: [blog.agentailor.com](https://blog.agentailor.com) — 3k+ monthly readers
+- **Newsletter**: [Agent Briefings](https://buttondown.com/agentailor) — weekly insights on agent development, 200+ subscribers
+
+Some articles worth reading:
+- [How to Build a Fullstack AI Agent with LangGraphJS and NestJS](https://blog.agentailor.com/posts/fullstack-ai-agent-app-with-langgraphjs-and-nestjs)
+- [Securing MCP Servers: A Practical Guide with Keycloak (using create-mcp-server)](https://blog.agentailor.com/blog/oauth-for-mcp-servers-practical-guide-keycloak)
+- [Deploying MCP Servers to Google Cloud Run](https://blog.agentailor.com/posts/deploy-mcp-server-cloud-run)
+
+---
+
+## 🔭 Currently working on
+
+Growing the agentailor ecosystem, with a current focus on [create-mcp-server](https://github.com/agentailor/create-mcp-server) — making it the go-to tool for scaffolding production-ready MCP servers.
+
+---
+
+## 🤝 Let's connect
+
+- [LinkedIn](https://www.linkedin.com/in/ali-ibrahim-junior/)
+- [agentailor.com](https://agentailor.com)
