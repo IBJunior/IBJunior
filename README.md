@@ -2,7 +2,7 @@
 
 Senior full stack engineer, today at the intersection of robust backend systems and AI agent tooling in production.
 
-I started agentailor.com around one conviction: most AI agent resources out there were demos. Great for inspiration, hard to build on. I wanted to provide something different — solid enough to ship, approachable enough to get started with.
+I started agentailor.com around one conviction: most AI agent resources out there were demos. Great for inspiration, hard to build on. I wanted to provide something different, solid enough to ship, approachable enough to get started with.
 
 ---
 
@@ -10,31 +10,29 @@ I started agentailor.com around one conviction: most AI agent resources out ther
 
 | Project | Description | |
 |---|---|---|
-| [fullstack-langgraph-nextjs-agent](https://github.com/agentailor/fullstack-langgraph-nextjs-agent) | Production-ready AI agent template — LangGraph.js + Next.js | ![GitHub stars](https://img.shields.io/github/stars/agentailor/fullstack-langgraph-nextjs-agent?style=flat&color=1A6B4A) |
+| [fullstack-langgraph-nextjs-agent](https://github.com/agentailor/fullstack-langgraph-nextjs-agent) | Production-ready AI agent template, LangGraph.js + Next.js | ![GitHub stars](https://img.shields.io/github/stars/agentailor/fullstack-langgraph-nextjs-agent?style=flat&color=1A6B4A) |
 | [agentailor.com](https://agentailor.com) | Platform for production-ready AI agent skills and tooling | 3k+ monthly readers |
-| [Agent Initializr](https://github.com/agentailor/agent-initializr-template) | Spring Initializr-style scaffolder for NestJS + LangGraph backends | 200+ projects generated |
 | [create-mcp-server](https://github.com/agentailor/create-mcp-server) | CLI to scaffold production-ready MCP servers in seconds | ![GitHub stars](https://img.shields.io/github/stars/agentailor/create-mcp-server?style=flat&color=1A6B4A) [![npm downloads](https://img.shields.io/npm/dt/@agentailor/create-mcp-server.svg)](https://www.npmjs.com/package/@agentailor/create-mcp-server) |
-| [SlimContext](https://github.com/agentailor/slimcontext) | NPM package tackling memory degradation in long-running LLM workflows | ![GitHub stars](https://img.shields.io/github/stars/agentailor/slimcontext?style=flat&color=1A6B4A) |
 
 ---
 
 ## 📖 Writing
 
-I write about building AI agents for production — architecture patterns, MCP tooling, LLM workflows, and lessons learned shipping real things.
+I write about building AI agents for production, architecture patterns, MCP tooling, LLM workflows, and lessons learned shipping real things.
 
-- **Blog**: [blog.agentailor.com](https://blog.agentailor.com) — 3k+ monthly readers
-- **Newsletter**: [Agent Briefings](https://buttondown.com/agentailor) — weekly insights on agent development, 200+ subscribers
+- **Blog**: [blog.agentailor.com](https://blog.agentailor.com)
+- **Newsletter**: [Agent Briefings](https://buttondown.com/agentailor), weekly insights on agent development.
 
 Some articles worth reading:
-- [How to Build a Fullstack AI Agent with LangGraphJS and NestJS](https://blog.agentailor.com/posts/fullstack-ai-agent-app-with-langgraphjs-and-nestjs)
-- [Securing MCP Servers: A Practical Guide with Keycloak (using create-mcp-server)](https://blog.agentailor.com/blog/oauth-for-mcp-servers-practical-guide-keycloak)
-- [Deploying MCP Servers to Google Cloud Run](https://blog.agentailor.com/posts/deploy-mcp-server-cloud-run)
+- [AI Agent Roadmap: Everything You Need to Build Agents (In the Right Order)](https://blog.agentailor.com/posts/agent-development-roadmap)
+- [The MCP TypeScript SDK: A Complete Guide to Tools, Resources, Prompts, and Beyond](https://blog.agentailor.com/posts/mcp-typescript-sdk-complete-guide)
+- [The Future of AI Building: Workflows, Agents, and Everything In Between](https://blog.agentailor.com/posts/agents-vs-workflows)
 
 ---
 
 ## 🔭 Currently working on
 
-Growing the agentailor ecosystem, with a current focus on [create-mcp-server](https://github.com/agentailor/create-mcp-server) — making it the go-to tool for scaffolding production-ready MCP servers.
+Growing the agentailor ecosystem, with a current focus on [create-mcp-server](https://github.com/agentailor/create-mcp-server), making it the go-to tool for scaffolding production-ready MCP servers.
 
 ---
 
