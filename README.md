@@ -11,7 +11,6 @@ I started agentailor.com around one conviction: most AI agent resources out ther
 | Project | Description | |
 |---|---|---|
 | [fullstack-langgraph-nextjs-agent](https://github.com/agentailor/fullstack-langgraph-nextjs-agent) | Production-ready AI agent template, LangGraph.js + Next.js | ![GitHub stars](https://img.shields.io/github/stars/agentailor/fullstack-langgraph-nextjs-agent?style=flat&color=1A6B4A) |
-| [agentailor.com](https://agentailor.com) | Platform for production-ready AI agent skills and tooling | 3k+ monthly readers |
 | [create-mcp-server](https://github.com/agentailor/create-mcp-server) | CLI to scaffold production-ready MCP servers in seconds | ![GitHub stars](https://img.shields.io/github/stars/agentailor/create-mcp-server?style=flat&color=1A6B4A) [![npm downloads](https://img.shields.io/npm/dt/@agentailor/create-mcp-server.svg)](https://www.npmjs.com/package/@agentailor/create-mcp-server) |
 
 ---
